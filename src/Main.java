@@ -1,5 +1,10 @@
 
 public class Main {
+	
+	/* +---------------------------------------------
+	 * | @author Isac Canedo
+	 * +---------------------------------------------
+	 */
 
 	/*
 	 * What is the output of this code?
